@@ -1,0 +1,46 @@
+#header {
+  background-color: white;
+  color: grey;
+  padding-right: 250px;
+  padding-left: 250px;
+}
+
+#footer {
+  padding-right: 250px;
+  padding-left: 250px;
+  background-color: #ededed;
+  color: dimgrey;
+  font-size: small;
+}
+
+#tabs {
+  font-size: x-small;
+}
+
+.grad-background {
+  background: url('//alohaxchng.com/cdn/shop/files/9.26.23_Leon-99_1600x.jpg?v=1707771006') no-repeat center center;
+  background-size: cover;
+  min-height: 80vh;
+}
+
+#image-text {
+  color: white;
+}
+
+.color-block {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  text-align: right;
+  margin-bottom: 200px;
+  padding-right: 50px;
+}
+
+.empty-link {
+  color: inherit;
+}
+
+.space {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
